@@ -2,5 +2,6 @@
 
 
 
-TIMESTAMP=$(date)
+echo "Hello World!"
+
 
